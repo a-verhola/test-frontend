@@ -1,0 +1,22 @@
+﻿{
+  "applicationCaption": "Test",
+  "applicationTitle": "Test",
+  "items": [
+    {
+      "link": null,
+      "menuName": "test",
+      "caption": "Test",
+      "title": "Test",
+      "children": [
+        {
+          "link": "i-i-s-test-cat-l",
+          "menuName": null,
+          "caption": "Cat",
+          "title": "",
+          "children": null
+        }
+      ]
+    }
+  ],
+  "mobile": true
+}

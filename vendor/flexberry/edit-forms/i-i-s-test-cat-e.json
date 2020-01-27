@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Cat",
+  "name": "IISTestCatE",
+  "className": "CatE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-test-cat",
+      "modelProjection": "CatE"
+    }
+  ]
+}
